@@ -1,0 +1,1 @@
+d::cout << "total : " + total;
